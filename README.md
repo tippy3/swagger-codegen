@@ -17,4 +17,4 @@ docker-compose up --bulid
 ## 注意事項
 
 - 対応するSwaggerSpecはバージョン2系です。Dockerfileのfromを編集すれば3系に変更できます。
-- YAMLファイルの拡張子は`.yml`です。その部分を変更すれば`json`も使用できます。
+- YAMLファイルの拡張子は`.yml`です。その部分を変更すれば`.yaml`や`.json`も使用できます。
