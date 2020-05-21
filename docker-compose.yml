@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  mock_server:
+    container_name: mock_server
+    build: .
+    ports:
+      - "8080:8080"
